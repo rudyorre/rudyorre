@@ -1,25 +1,24 @@
-<h3 align="center"><samp>Hello, World! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://rudyorre.com">Rudy Orre</a></b></samp></h3>
-<p align="center"><br>
-  <samp>
-    [ Computer Science @ <b>UCLA</b> ] <br>
-  </samp>
-</p>
-<p align="center"><br>
-  <samp>
-    <img src="https://img.shields.io/badge/rudyorre.com-%23D14836.svg?&style=for-the-badge&&logoColor=white" href="rudyorre@ucla.edu"> <br>
-    <a href="https://www.linkedin.com/in/rudyorre/">
-    <img src="https://img.shields.io/badge/Rudy Orre-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>  <br>
-    <a  href="https://www.instagram.com/rudyorre/">
-    <img src="https://img.shields.io/badge/@rudyorre_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    
+<samp>> rudyorre.intro </samp> <br>
+<samp><b>&nbsp; => "Hello, World! I am <a rel="nofollow noopener noreferrer" target="_blank" href="https://rudyorre.com">Rudy Orre</a>"</b></samp> <br>
 
-  </samp>
-</p>
+<samp>> rudyorre.origin </samp> <br>
+<samp><b>&nbsp; => "Los Angeles, CA"</b></samp> <br>
 
+<samp>> rudyorre.education </samp> <br>
+<samp><b>&nbsp; => "University of California, Los Angeles"</b></samp> <br>
+<samp><b>&nbsp; &nbsp; &nbsp;"El Camino College"</b></samp> <br>
 
+<samp>> rudyorre.major </samp> <br>
+<samp><b>&nbsp; => "Computer Science"</b></samp> <br>
 
-<br>
-<samp>
-  <p align="center">
-  </p>
-</samp>
+<samp>> rudyorre.expected_graduation </samp> <br>
+<samp><b>&nbsp; => "2023"</b></samp> <br>
+
+<samp>> rudyorre.interests </samp> <br>
+<samp><b>&nbsp; => [ "Software Engineering", "Data Science", "Mathematics" ]</b></samp> <br>
+
+<samp>> rudyorre.website </samp> <br>
+<samp><b>&nbsp; => "<a rel="nofollow noopener noreferrer" target="_blank" href="https://rudyorre.com">rudyorre.com</a>"</b></samp> <br>
+
+<samp>> rudyorre.linkedin </samp> <br>
+<samp><b>&nbsp; => "<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/rudyorre/">linkedin.com/in/rudyorre/</a>"</b></samp> <br>
