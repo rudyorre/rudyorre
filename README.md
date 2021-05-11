@@ -5,8 +5,7 @@
 <samp><b>&nbsp; => "Los Angeles, CA"</b></samp> <br>
 
 <samp>> rudyorre.education </samp> <br>
-<samp><b>&nbsp; => "University of California, Los Angeles"</b></samp> <br>
-<samp><b>&nbsp; &nbsp; &nbsp;"El Camino College"</b></samp> <br>
+<samp><b>&nbsp; => [ "University of California, Los Angeles", "El Camino College" ]</b></samp> <br>
 
 <samp>> rudyorre.major </samp> <br>
 <samp><b>&nbsp; => "Computer Science"</b></samp> <br>
