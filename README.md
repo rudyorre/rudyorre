@@ -6,6 +6,7 @@
 </p>
 <p align="center"><br>
   <samp>
+    <a href="https://rudyorre.com">
     <img src="https://img.shields.io/badge/rudyorre.com-%23D14836.svg?&style=for-the-badge&&logoColor=white" href="rudyorre@ucla.edu"> <br>
     <a href="https://www.linkedin.com/in/rudyorre/">
     <img src="https://img.shields.io/badge/Rudy Orre-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>  <br>
