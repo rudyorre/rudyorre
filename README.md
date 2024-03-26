@@ -17,11 +17,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rudyorre/rudyorre/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="github contribution grid snake animation](https://raw.githubusercontent.com/rudyorre/rudyorre/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
-
 <br>
 <samp>
   <p align="center">
